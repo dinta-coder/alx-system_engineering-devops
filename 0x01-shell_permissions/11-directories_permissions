@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 777 hello
+find -mindepth 1 -type d | wc -l
