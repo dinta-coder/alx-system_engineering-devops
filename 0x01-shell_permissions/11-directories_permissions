@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod -R 766 hello
+chmod -R 777 hello
+
