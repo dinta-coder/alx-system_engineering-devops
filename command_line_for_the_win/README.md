@@ -1,6 +1,5 @@
 # Command_line_for_the_win
 
-![https://camo.githubusercontent.com/02fa71e7d8fcf0aa0b6ca0c2c2ca8b445382222cebce144f7ebcd7d3f0be3d1e/68747470733a2f2f7777772e6461746171756573742e696f2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f636f6d6d616e642d6c696e652d636f75727365732d6461746171756573742d31303030783532302d312d312e676966]
 
 ## Background Context
 --
@@ -12,10 +11,10 @@ This project is NOT mandatory at all. It is 100% optional. Doing any part of thi
 # Requirements
 --
 
-    *, A README.md file, at the root of the folder of the project, is mandatory This project will be manually reviewed.
+    1. A README.md file, at the root of the folder of the project, is mandatory This project will be manually reviewed.
 
-    *, As each task is completed, the name of that task will turn green
+    2. As each task is completed, the name of that task will turn green
 
-    *, Create a screenshot, showing that you completed the required levels
+    3. Create a screenshot, showing that you completed the required levels
  
-    *, Push this screenshot with the right name to GitHub, in either the PNG or JPEG format
+    4. Push this screenshot with the right name to GitHub, in either the PNG or JPEG format
