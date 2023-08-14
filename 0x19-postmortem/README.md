@@ -5,13 +5,13 @@ Any software system will eventually fail, and that failure can come stem from a 
 
 
 
-bugs 
-        traffic spikes 
-        security issues 
-        hardware failures 
-        natural disasters 
-        human error…
--
+        * bugs 
+        - traffic spikes 
+        + security issues 
+        * hardware failures 
+        - natural disasters 
+        + human error…
+
 
 ##  Failing is normal and failing is actually a great opportunity to learn and improve.
 
